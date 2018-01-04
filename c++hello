@@ -1,0 +1,6 @@
+int main()
+{
+cout<<This is my first program at GitHub\n
+cout<<Hello world
+return 0
+}
